@@ -41,7 +41,7 @@
 <h4 id="3-文章撰写遇到的问题"><a href="#3-文章撰写遇到的问题" class="headerlink" title="3.文章撰写遇到的问题"></a>3.文章撰写遇到的问题</h4><h5 id="1-图片不能显示"><a href="#1-图片不能显示" class="headerlink" title="1.图片不能显示"></a>1.图片不能显示</h5><p>参考 ：<a href="https://www.jianshu.com/p/f72aaad7b852" target="_blank" rel="noopener">https://www.jianshu.com/p/f72aaad7b852</a></p>
 ]]></content>
       <tags>
-        <tag>-hexo</tag>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -49,7 +49,9 @@
     <url>/2020/05/13/studyResource/</url>
     <content><![CDATA[<h3 id="人工智能"><a href="#人工智能" class="headerlink" title="人工智能"></a>人工智能</h3>]]></content>
       <tags>
-        <tag>-cs -学习 -AI</tag>
+        <tag>cs</tag>
+        <tag>学习</tag>
+        <tag>AI</tag>
       </tags>
   </entry>
   <entry>
@@ -57,7 +59,10 @@
     <url>/2020/05/13/goodThings/</url>
     <content><![CDATA[<h3 id="b站up"><a href="#b站up" class="headerlink" title="b站up"></a>b站up</h3><h3 id="WeiBo博主"><a href="#WeiBo博主" class="headerlink" title="WeiBo博主"></a>WeiBo博主</h3><h3 id="GitHub资源"><a href="#GitHub资源" class="headerlink" title="GitHub资源"></a>GitHub资源</h3>]]></content>
       <tags>
-        <tag>-b站 -Weibo -干货 -GitHub</tag>
+        <tag>b站</tag>
+        <tag>Weibo</tag>
+        <tag>干货</tag>
+        <tag>GitHub</tag>
       </tags>
   </entry>
   <entry>
@@ -146,7 +151,8 @@
 <p>关于作文的时间，我自己时间紧我就在考试前一天，练了一下。你时间多那就自己安排。</p>
 ]]></content>
       <tags>
-        <tag>-专升本 -英语</tag>
+        <tag>专升本</tag>
+        <tag>英语</tag>
       </tags>
   </entry>
   <entry>
@@ -229,7 +235,8 @@
 <p><strong><em>注意：最好不要在试卷打草稿，你自己最好用铅笔写，到时候擦掉就好。\</em></strong></p>
 ]]></content>
       <tags>
-        <tag>-专升本 -高数</tag>
+        <tag>专升本</tag>
+        <tag>高数</tag>
       </tags>
   </entry>
   <entry>
@@ -262,7 +269,7 @@
 <h4 id="17-大学期间有挂科会有影响吗？（按照四川理工）"><a href="#17-大学期间有挂科会有影响吗？（按照四川理工）" class="headerlink" title="17.大学期间有挂科会有影响吗？（按照四川理工）"></a>17.大学期间有挂科会有影响吗？（按照四川理工）</h4><p>在你考试之前所有的挂科都通过补考，不会有影响</p>
 ]]></content>
       <tags>
-        <tag>-专升本</tag>
+        <tag>专升本</tag>
       </tags>
   </entry>
 </search>
