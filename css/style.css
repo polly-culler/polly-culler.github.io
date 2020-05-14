@@ -1207,7 +1207,7 @@ img {
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: rgba(178,191,204,0.6);
+  background-color: rgba(196,224,253,0.4);
 }
 .video-inner {
   position: absolute;
@@ -2342,6 +2342,9 @@ pre .javascript .function {
 }
 .navbar .nav.nav-main .nav-item:nth-child(2) .nav-item-link::before {
   content: '\f12a';
+}
+.navbar .nav.nav-main .nav-item:nth-child(3) .nav-item-link::before {
+  content: '\f1a9';
 }
 .navbar .nav.nav-main .nav-item:nth-child(4) .nav-item-link::before {
   content: '\f174';
