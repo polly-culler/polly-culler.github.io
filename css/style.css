@@ -6,12 +6,6 @@
   src: url("feathericon/feathericon.eot");
   src: url("feathericon/feathericon.eot?#iefix") format('embedded-opentype'), url("feathericon/feathericon.woff") format('woff'), url("feathericon/feathericon.ttf") format('truetype'), url("feathericon/feathericon.svg") format('svg');
 }
-@font-face {
-  font-family: Kaushan Script;
-  font-weight: normal;
-  font-style: normal;
-  src: url("feathericon/KaushanScript-Regular.ttf") format('truetype'),;
-}
 .fe {
   display: inline-block;
   font: normal normal normal 16px feathericon;
