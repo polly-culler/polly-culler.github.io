@@ -893,6 +893,7 @@ body ::selection {
   color: #e6e6e6;
 }
 a {
+  font-family: Kaushan Script;
   color: #127ea9;
 }
 a:hover {
