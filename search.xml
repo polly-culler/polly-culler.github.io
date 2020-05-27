@@ -48,6 +48,17 @@
       </tags>
   </entry>
   <entry>
+    <title>github三阶段练手项目app-ideas</title>
+    <url>/2020/05/27/app-ideas/</url>
+    <content><![CDATA[<p>github 上三阶段练手项目<br>link:<a href="https://github.com/florinpop17/app-ideas" target="_blank" rel="noopener">https://github.com/florinpop17/app-ideas</a></p>
+<a id="more"></a>
+<h2 id="Beginner-Projects"><a href="#Beginner-Projects" class="headerlink" title="Beginner Projects"></a>Beginner Projects</h2>]]></content>
+      <tags>
+        <tag>github</tag>
+        <tag>coding</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>git</title>
     <url>/2020/05/22/git/</url>
     <content><![CDATA[<h2 id="Git上传项目到github"><a href="#Git上传项目到github" class="headerlink" title="Git上传项目到github"></a>Git上传项目到github</h2><h3 id="1-安装git："><a href="#1-安装git：" class="headerlink" title="1.安装git："></a>1.安装git：</h3><p><a href="https://git-scm.com/downloads" target="_blank" rel="noopener">下载链接</a></p>
@@ -77,8 +88,8 @@
 <h4 id="3-参考文档"><a href="#3-参考文档" class="headerlink" title="3.参考文档"></a>3.参考文档</h4><p>1.<a href="https://www.cnblogs.com/cxk1995/p/5800196.html" target="_blank" rel="noopener">https://www.cnblogs.com/cxk1995/p/5800196.html</a></p>
 ]]></content>
       <tags>
-        <tag>git</tag>
         <tag>github</tag>
+        <tag>git</tag>
       </tags>
   </entry>
   <entry>
