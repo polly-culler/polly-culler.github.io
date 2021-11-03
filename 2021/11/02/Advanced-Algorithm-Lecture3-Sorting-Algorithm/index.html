@@ -79,8 +79,23 @@
 <li>Counting sort</li>
 <li>Radix sort</li>
 <li>Bucket sort</li>
-<li>Shell sort<h2 id="Insertion-sort"><a href="#Insertion-sort" class="headerlink" title="Insertion sort"></a>Insertion sort</h2></li>
+<li>Shell sort</li>
 </ol>
+<h2 id="Insertion-sort"><a href="#Insertion-sort" class="headerlink" title="Insertion sort"></a>Insertion sort</h2><h3 id="Algorithm"><a href="#Algorithm" class="headerlink" title="Algorithm"></a><strong>Algorithm</strong></h3><p>To sort an array of size n in ascending order:<br>1: Iterate from arr[1] to arr[n] over the array.<br>2: Compare the current element (key) to its predecessor.<br>3: If the key element is smaller than its predecessor, compare it to the elements before. Move the greater elements one position up to make space for the swapped element.</p>
+<h3 id="Working-of-Insertion-Sort"><a href="#Working-of-Insertion-Sort" class="headerlink" title="Working of Insertion Sort"></a>Working of Insertion Sort</h3><p>Initial array: 9 5 1 4 3 </p>
+<ol>
+<li><p>Compare the key with the first element. If the first element is greater than key, then key is placed in front of the first element.</p>
+<p><img src="/2021/11/02/Advanced-Algorithm-Lecture3-Sorting-Algorithm/C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20211103221139328.png" alt="image-20211103221139328"></p>
+</li>
+<li><p>the first two element are sorted. Take third element and compare it with the elements on the left of it. Placed it just behind the element smaller than it. If there is no element  smaller than it, then place it at the beginning of the array.</p>
+<p><img src="/2021/11/02/Advanced-Algorithm-Lecture3-Sorting-Algorithm/C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20211103221440318.png" alt="image-20211103221440318"></p>
+<ol start="3">
+<li>Similarly, place every unsorted element at its correct position.</li>
+</ol>
+</li>
+</ol>
+<h3 id="Code"><a href="#Code" class="headerlink" title="Code"></a>Code</h3><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">insertionSort</span><span class="params">(array)</span>:</span></span><br><span class="line">    <span class="keyword">for</span> step <span class="keyword">in</span> range(<span class="number">1</span>, len(array)):</span><br><span class="line">        key = array[step]</span><br><span class="line">        j = step - <span class="number">1</span></span><br><span class="line"></span><br><span class="line">        <span class="keyword">while</span> j &gt;= <span class="number">0</span> <span class="keyword">and</span> key &lt; array[j]:</span><br><span class="line">            array[j+<span class="number">1</span>] =array[j]</span><br><span class="line">            j = j<span class="number">-1</span></span><br><span class="line">        array[j+<span class="number">1</span>] = key</span><br><span class="line">data = [<span class="number">9</span>, <span class="number">5</span>, <span class="number">1</span>, <span class="number">4</span>, <span class="number">3</span>]</span><br><span class="line">insertionSort(data)</span><br><span class="line">print(<span class="string">'Sorted Array in Ascending Order:'</span>)</span><br><span class="line">print(data)</span><br></pre></td></tr></table></figure>
+
 <table>
 <thead>
 <tr>
@@ -109,16 +124,16 @@
 <td>Yes</td>
 </tr>
 </tbody></table>
-<a id="more"></a>
-
-<p><strong>Time Complexity:</strong> O(n^2) </p>
-<p><strong>Auxiliary Space</strong>: O(1) </p>
 <p><strong>Boundary Cases</strong>: Insertion sort takes maximum time to sort if elements are sorted in reverse order. And it takes minimum time (Order of n) when elements are already sorted. </p>
 <p><strong>Algorithmic Paradigm</strong>: Incremental Approach </p>
-<p>Sorting In Place: Yes </p>
 <p><strong>Stable</strong>: Yes </p>
-<p>Online: Yes </p>
-<h2 id="Bubble-sort"><a href="#Bubble-sort" class="headerlink" title="Bubble sort"></a>Bubble sort</h2><table>
+<h2 id="Bubble-sort"><a href="#Bubble-sort" class="headerlink" title="Bubble sort"></a>Bubble sort</h2><p>It works by repeatedly swapping adjacent elements that are out of order, popular but inefficient.</p>
+<p><strong>Algorithm</strong></p>
+<ul>
+<li>Compare adjacent array elements</li>
+<li>Smaller values bubble up to the top of the array</li>
+</ul>
+<table>
 <thead>
 <tr>
 <th><strong>Time Complexity</strong></th>
@@ -239,11 +254,12 @@
 <p>Average: O(nlogn) </p>
 <p><strong>Space Complexity: O(1)</strong> </p>
 <p><strong>Stable: no (</strong>because this algorithm does not examine the elements lying in between the intervals.<strong>)</strong></p>
+<p>The online link to learn sort:</p>
 
                                                                         
                                     </div>
                                     <footer class="article-footer">
-                                        <a data-url="http://yoursite.com/2021/11/02/Advanced-Algorithm-Lecture3-Sorting-Algorithm/" data-id="ckvi98wjj00051ovofj2bdj4w" class="article-share-link">
+                                        <a data-url="http://yoursite.com/2021/11/02/Advanced-Algorithm-Lecture3-Sorting-Algorithm/" data-id="ckvjmdtwf0002c0vohdv8bsuj" class="article-share-link">
                                             分享
                                         </a>
                                         
