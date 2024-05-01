@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Bali</title>
+    <url>/polly-culler.github.io/2024/05/01/Bali/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>Bali</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>hexo入门</title>
+    <url>/polly-culler.github.io/2024/05/01/hexo%E5%85%A5%E9%97%A8/</url>
+    <content><![CDATA[<h1 id="Hexo-bug："><a href="#Hexo-bug：" class="headerlink" title="Hexo bug："></a>Hexo bug：</h1><h2 id="1-部署后无样式效果"><a href="#1-部署后无样式效果" class="headerlink" title="1. 部署后无样式效果"></a>1. 部署后无样式效果</h2><p>解决方案：<a href="https://blog.csdn.net/banjw_129/article/details/82261165">https://blog.csdn.net/banjw_129/article/details/82261165</a></p>
+]]></content>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/polly-culler.github.io/2024/04/30/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>产品-竟品分析</title>
+    <url>/polly-culler.github.io/2024/05/01/%E4%BA%A7%E5%93%81-%E7%AB%9F%E5%93%81%E5%88%86%E6%9E%90/</url>
+    <content><![CDATA[<p>竞品分析的目的：</p>
+<ul>
+<li>行业现状</li>
+<li>需求场景</li>
+<li>业务形态</li>
+<li>业务流程</li>
+<li>功能结构</li>
+<li>交互体验</li>
+<li>数据表现</li>
+<li>更新迭代</li>
+</ul>
+<p>竞品分析什么</p>
+<p>京品分类：</p>
+<ul>
+<li>直接<ul>
+<li>美团&amp;饿了么<ul>
+<li>核心服务、市场目标、客户群体一致</li>
+<li>产品功能和用户需求相似度极高</li>
+<li>问题：思路想法上会导致保守</li>
+<li>分析：<ul>
+<li>市场格局，产品演化路径等维度</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>间接<ul>
+<li>嘀嗒&amp;滴滴出行<ul>
+<li>核心用户高度相同，核心功能暂时不通，但后期可能加上相关功能</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>潜在<ul>
+<li>目标人群不太相同，某些产品功能和服务比较相似</li>
+<li>业务流程、交互细节等层面进行研究。→灵感</li>
+<li>目标人群有一定共性，核心服务不一样，在特定场景下对于同一类用户需求大致相同<ul>
+<li>微信&amp;新浪<ul>
+<li>分析：用户需求，场景，深层次的使用动机</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>核心目标相同、用户需求不同，不会形成明显的竞争关系<ul>
+<li>千锋教育&amp;中公教育<ul>
+<li>产品和运营的角度分析对方如何吸引用户</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>分析方法<ol>
+<li>通过围绕某些产品功能的改进和优化分析</li>
+<li>深度了解用户</li>
+<li>行业和产业格局层面</li>
+</ol>
+</li>
+</ul>
+<p>如何在竞品之间进行分析</p>
+<ul>
+<li>对比数量表现，市场认可度</li>
+<li>对比业务逻辑、业务模式之间的差异</li>
+<li>研究产品核心对产品产生的影响</li>
+<li>对比产品结构和用户使用流程</li>
+<li>对比特色功能和用户场景</li>
+<li>对比产品的交互设计</li>
+<li>对比双方的运营策略</li>
+<li>对比产品的版本迭代</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>产品</tag>
+      </tags>
+  </entry>
+</search>
