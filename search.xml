@@ -71,32 +71,14 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2024/04/30/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<span id="more"></span>
-<h2 id="Quick-Start"><a class="header-anchor" href="#Quick-Start">¶</a>Quick Start</h2>
-<h3 id="Create-a-new-post"><a class="header-anchor" href="#Create-a-new-post">¶</a>Create a new post</h3>
-<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a class="header-anchor" href="#Run-server">¶</a>Run server</h3>
-<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a class="header-anchor" href="#Generate-static-files">¶</a>Generate static files</h3>
-<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a class="header-anchor" href="#Deploy-to-remote-sites">¶</a>Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>hexo需完工</title>
-    <url>/2024/05/02/hexo%E9%9C%80%E5%AE%8C%E5%B7%A5/</url>
-    <content><![CDATA[<ul>
-<li><a href="https://blog.douchi.space/hugo-blog-heatmap/#gsc.tab=0">创建豆瓣热力图</a></li>
-<li>修改gallery样式参考<img src="https://i.pinimg.com/564x/44/d3/2a/44d32a7b46bbcdae34fe9529a0283c6d.jpg" alt="pinterest"></li>
-</ul>
+    <title>hexo入门</title>
+    <url>/2024/05/01/hexo%E5%85%A5%E9%97%A8/</url>
+    <content><![CDATA[<h1>Hexo bug：</h1>
+<h2 id="1-部署后无样式效果"><a class="header-anchor" href="#1-部署后无样式效果">¶</a>1. 部署后无样式效果</h2>
+<p>解决方案：<a href="https://blog.csdn.net/banjw_129/article/details/82261165">https://blog.csdn.net/banjw_129/article/details/82261165</a></p>
+<h1>页面样式</h1>
+<h2 id="1-icon-样式"><a class="header-anchor" href="#1-icon-样式">¶</a>1.icon 样式</h2>
+<p><a href="https://feathericon.github.io/feathericon/">featureicon</a></p>
 ]]></content>
       <categories>
         <category>hexo</category>
@@ -106,14 +88,12 @@
       </tags>
   </entry>
   <entry>
-    <title>hexo入门</title>
-    <url>/2024/05/01/hexo%E5%85%A5%E9%97%A8/</url>
-    <content><![CDATA[<h1>Hexo bug：</h1>
-<h2 id="1-部署后无样式效果"><a class="header-anchor" href="#1-部署后无样式效果">¶</a>1. 部署后无样式效果</h2>
-<p>解决方案：<a href="https://blog.csdn.net/banjw_129/article/details/82261165">https://blog.csdn.net/banjw_129/article/details/82261165</a></p>
-<h1>页面样式</h1>
-<h2 id="1-icon-样式"><a class="header-anchor" href="#1-icon-样式">¶</a>1.icon 样式</h2>
-<p><a href="https://feathericon.github.io/feathericon/">featureicon</a></p>
+    <title>hexo需完工</title>
+    <url>/2024/05/02/hexo%E9%9C%80%E5%AE%8C%E5%B7%A5/</url>
+    <content><![CDATA[<ul>
+<li><a href="https://blog.douchi.space/hugo-blog-heatmap/#gsc.tab=0">创建豆瓣热力图</a></li>
+<li>修改gallery样式参考<img src="https://i.pinimg.com/564x/44/d3/2a/44d32a7b46bbcdae34fe9529a0283c6d.jpg" alt="pinterest"></li>
+</ul>
 ]]></content>
       <categories>
         <category>hexo</category>
@@ -135,17 +115,24 @@
       </tags>
   </entry>
   <entry>
-    <title>日惹旅游攻略</title>
-    <url>/2023/05/01/%E6%97%A5%E6%83%B9%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5/</url>
-    <content><![CDATA[<h1>日惹旅游攻略</h1>
+    <title>Hello World</title>
+    <url>/2024/04/30/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
+<h2 id="Quick-Start"><a class="header-anchor" href="#Quick-Start">¶</a>Quick Start</h2>
+<h3 id="Create-a-new-post"><a class="header-anchor" href="#Create-a-new-post">¶</a>Create a new post</h3>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a class="header-anchor" href="#Run-server">¶</a>Run server</h3>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a class="header-anchor" href="#Generate-static-files">¶</a>Generate static files</h3>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a class="header-anchor" href="#Deploy-to-remote-sites">¶</a>Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-      <categories>
-        <category>生活</category>
-        <category>旅游</category>
-      </categories>
-      <tags>
-        <tag>日惹</tag>
-      </tags>
   </entry>
   <entry>
     <title>专升本</title>
@@ -480,6 +467,19 @@
       </categories>
       <tags>
         <tag>产品</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>日惹旅游攻略</title>
+    <url>/2023/05/01/%E6%97%A5%E6%83%B9%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5/</url>
+    <content><![CDATA[<h1>日惹旅游攻略</h1>
+]]></content>
+      <categories>
+        <category>生活</category>
+        <category>旅游</category>
+      </categories>
+      <tags>
+        <tag>日惹</tag>
       </tags>
   </entry>
 </search>
