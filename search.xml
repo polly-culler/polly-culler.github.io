@@ -364,18 +364,9 @@
       </tags>
   </entry>
   <entry>
-    <title></title>
-    <url>/2024/05/03/%E4%BA%A7%E5%93%81%E5%8F%AF%E6%8A%95%E9%80%92%E5%85%AC%E5%8F%B8/</url>
-    <content><![CDATA[<p>title: 产品可投递公司<br>
-date: 2024-5-2<br>
-tags:</p>
-<ul>
-<li>工作<br>
-categories:</li>
-<li>工作</li>
-<li>产品</li>
-</ul>
-<p>整理了可投递产品岗位的表格。内推码需在牛客寻找。</p>
+    <title>产品可投递公司</title>
+    <url>/2024/05/02/%E4%BA%A7%E5%93%81%E5%8F%AF%E6%8A%95%E9%80%92%E5%85%AC%E5%8F%B8/</url>
+    <content><![CDATA[<p>整理了可投递产品岗位的表格。内推码需在牛客寻找。</p>
 <span id="more"></span>
 <table>
 <thead>
@@ -834,6 +825,13 @@ categories:</li>
 </tbody>
 </table>
 ]]></content>
+      <categories>
+        <category>工作</category>
+        <category>产品</category>
+      </categories>
+      <tags>
+        <tag>工作</tag>
+      </tags>
   </entry>
   <entry>
     <title>日惹旅游攻略</title>
